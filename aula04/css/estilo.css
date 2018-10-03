@@ -1,0 +1,23 @@
+div{
+    background-color: darkturquoise;
+}
+
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: coral;
+
+}
+
+#paragrafo1 {
+    color: honeydew;
+    margin-top: 50px;
+}
+
+#paragrafo2 {
+    color: rgb(255, 30, 236);
+}
+
+.alerta{
+    background-color: yellow;
+    margin: 150px;
+}
